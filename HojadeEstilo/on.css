@@ -1,0 +1,10 @@
+.contenedor{
+    width: auto;
+    height: auto;
+    border: 3px solid blue;
+}
+.contenedormenu{
+    border: 3px solid red;
+    width:  100px;
+    height: 150px;
+}
